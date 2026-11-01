@@ -1,0 +1,25 @@
+type,indicator,asn,as_org,country,count,context
+ipv4,109.123.227.33,AS141995,Contabo Asia Private Limited,Australia,260822,"top source, mainly RDP"
+ipv4,77.239.124.158,AS198364,Banatsync Srl,United States,16218,"top source, mainly SSH"
+ipv4,109.160.32.178,AS198364,Banatsync Srl,Bulgaria,16112,"top source, mainly SSH"
+ipv4,77.239.124.67,AS198364,Banatsync Srl,United States,6883,"top source, mainly SSH"
+ipv4,77.239.124.39,AS198364,Banatsync Srl,United States,6806,"top source, mainly SSH"
+ipv4,27.102.116.43,AS45996,DAOU TECHNOLOGY,South Korea,1864,"top source, mainly SSH"
+ipv4,154.18.197.29,AS142271,EWS DS Networks Inc,Philippines,1797,"top source, mainly SSH"
+ipv4,77.90.185.30,AS213790,Limited Network LTD,Germany,1704,"top source, mainly MySQL"
+ipv4,93.123.109.6,AS48090,Techoff Srv Limited,Bulgaria,1428,"top source, mainly PPTP"
+ipv4,35.207.72.163,AS15169,Google LLC,Germany,1206,"top source, mainly port 51058"
+ipv4,195.178.110.232,AS48090,Techoff Srv Limited,Bulgaria,968,"top source, mainly SSH; uploaded malware over SSH/SCP"
+ipv4,112.184.193.210,AS4766,Korea Telecom,South Korea,936,"top source, mainly Telnet"
+ipv4,80.94.92.55,AS47890,Unmanaged Ltd,Romania,828,"top source, mainly SSH; uploaded malware over SSH/SCP"
+ipv4,89.190.156.22,AS49870,Alsycon B.V.,The Netherlands,828,"top source, mainly SIP"
+ipv4,61.72.67.87,AS4766,Korea Telecom,South Korea,819,"top source, mainly Telnet"
+ipv4,23.94.174.242,AS36352,HostPapa,United States,755,"top source, mainly SIP"
+ipv4,202.169.44.105,AS17451,BIZNET NETWORKS,Indonesia,684,"top source, mainly Telnet"
+ipv4,46.29.26.163,AS132359,M/S ROBI TRADERS,Türkiye,641,"top source, mainly PPTP"
+ipv4,101.36.108.191,AS135377,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Hong Kong,597,"top source, mainly PostgreSQL"
+ipv4,88.214.25.125,AS35042,Layer7 Networks GmbH,Germany,594,"top source, mainly RDP"
+ipv4,2.57.122.150,AS47890,Unmanaged Ltd,Romania,,uploaded malware over SSH/SCP
+ipv4,80.94.92.179,AS47890,Unmanaged Ltd,Romania,,uploaded malware over SSH/SCP
+sha256,a151d3f4f2422531f30a843ffb35479596c86722bb103bdf8591105687f9b125,,,,4,file uploaded over SSH/SCP as .16 by 4 IP(s)
+sha256,72b4db8a74da275ed7c51ce919e9e8b6d0897c45e50ad8a4bb748a9b681c7ea5,,,,1,file uploaded over SSH/SCP as .16 by 1 IP(s)
